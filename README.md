@@ -30,3 +30,10 @@ Temper is a compact, low power temperature sensor based on ESP8266 and SHT30 wit
 - [Config portal](https://github.com/mcer12/Temper-ESP8266/wiki/Config-portal-&-OTA)
 - [Home Assistant](https://github.com/mcer12/Temper-ESP8266/wiki/Home-Assistant)
 - [Notes and considerations](https://github.com/mcer12/Temper-ESP8266/wiki/Some-notes-and-considerations)
+
+
+
+
+
+
+--
